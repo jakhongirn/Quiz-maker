@@ -1,23 +1,23 @@
-question_data = [
-    {"text": "A slug's blood is green.", "answer": "True"},
-    {"text": "The loudest animal is the African Elephant.", "answer": "False"},
-    {"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
-    {"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
+question_data_1 = [
+    {"question": "A slug's blood is green.", "correct_answer": "True"},
+    {"question": "The loudest animal is the African Elephant.", "correct_answer": "False"},
+    {"question": "Approximately one quarter of human bones are in the feet.", "correct_answer": "True"},
+    {"question": "The total surface area of a human lungs is the size of a football pitch.", "correct_answer": "True"},
     {
-        "text": "In West Virginia, USA, if you accidentally hit an animal with your car, "
-                "you are free to take it home to eat.", "answer": "True"},
-    {"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.",
-     "answer": "False"},
-    {"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
-    {"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
-    {"text": "Google was originally called 'Backrub'.", "answer": "True"},
-    {"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
-    {"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
-    {"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+        "question": "In West Virginia, USA, if you accidentally hit an animal with your car, "
+                "you are free to take it home to eat.", "correct_answer": "True"},
+    {"question": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.",
+     "correct_answer": "False"},
+    {"question": "It is illegal to pee in the Ocean in Portugal.", "correct_answer": "True"},
+    {"question": "You can lead a cow down stairs but not up stairs.", "correct_answer": "False"},
+    {"question": "Google was originally called 'Backrub'.", "correct_answer": "True"},
+    {"question": "Buzz Aldrin's mother's maiden name was 'Moon'.", "correct_answer": "True"},
+    {"question": "No piece of square dry paper can be folded in half more than 7 times.", "correct_answer": "False"},
+    {"question": "A few ounces of chocolate can to kill a small dog.", "correct_answer": "True"}
 ]
 
 # This data has taken from open trivia database opentdb.com which generates you questions from different categories and levels.
-question_data2 = [
+question_data_2 = [
 
     {
         "category": "Science: Computers",
